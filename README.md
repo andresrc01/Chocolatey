@@ -14,6 +14,9 @@ En cambio, si estamos en cmd, el comando seria: @"%SystemRoot*\System32\WindowsP
 
 Simplemente con la ejecucion de estos comandos en sus respectivas consolas y pulsando intro se instalaria de manera automatica la herramienta chocolatey.
 
+<h3>Ejemplo de instalacion</h3>
+Esta herramienta es muy sencilla y intuitiva y el comando para instalar las aplicaciones es tan facil como "choco install 'nombre_del_programa'". Este programa tambien nos proporciona un repositorio de prgramas que se pueden instalar en chocolatey y de que manera se instalan (Viene el comando a ejecutar). Ademas, estos se pueden descargar desde esa misma pagina. 
+
 
 
 
